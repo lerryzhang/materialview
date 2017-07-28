@@ -1,0 +1,9 @@
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\bin\Release\MaterialView.exe.config
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\bin\Release\MaterialView.exe
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\bin\Release\MaterialView.pdb
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Release\MaterialView.Form1.resources
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Release\MaterialView.Properties.Resources.resources
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Release\MaterialView.csproj.GenerateResource.Cache
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Release\MaterialView.exe
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Release\MaterialView.pdb
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Release\MaterialView.Form2.resources

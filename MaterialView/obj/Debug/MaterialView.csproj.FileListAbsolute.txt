@@ -1,0 +1,10 @@
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\bin\Debug\MaterialView.exe.config
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\bin\Debug\MaterialView.exe
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\bin\Debug\MaterialView.pdb
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Debug\MaterialView.csprojResolveAssemblyReference.cache
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Debug\MaterialView.Form1.resources
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Debug\MaterialView.Properties.Resources.resources
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Debug\MaterialView.csproj.GenerateResource.Cache
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Debug\MaterialView.exe
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Debug\MaterialView.pdb
+D:\vs2012\新建文件夹\Projects\Projects\MaterialView\MaterialView\obj\Debug\MaterialView.Form2.resources
